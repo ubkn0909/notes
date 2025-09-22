@@ -1,3 +1,8 @@
+---
+id: mygoal
+aliases: []
+tags: []
+---
 
 
 A pitfall that I fall into when pursuing goals of academic success is searching
@@ -48,4 +53,45 @@ I should study basic:
   Among the two purpose-defing goals are compatible with the iterative process
   of unfolding.
 
+
+# The paradox of desire
+Lacanian desire says that the true pleasure(Jouissance) received from desire
+isn't from the gain of the desire but rather the pursuit itself. Because after
+having achieved your desire you realise in horror that you are now empty again.
+You still feel incomplete as if lacking something and so you fixate on another
+desire until you reach it and repeat the cycle all over again.
+
+Using Marxist terms, true enjoyment doesn't come from the value in desire
+(value gained by having it) but rather it is a surplus value, the value gained
+not from possessing the object of desire but rather something else. Thus its
+called surplus enjoyment. Its enjoyment recieved not from acquiring desire but
+from the pursuit of desire
+
+An example to illustrate this perfectly is that of a newborn child. A newborn
+learns to suck as a survival mechanism so we say that it has a desire to suck I
+mean it will die otherwise so it makes sense for the brain to desire 'sucking'
+but something contradictory happens when you fetch it a pacifier. You'd expect
+the child to stop sucking the pacifier since no milk comes out of a pacifier
+and so it doesn't make sense for it to continue but the baby does. It continue
+on and on. So it must be receiving pleasure to reinforce such behaviour but
+what from? it can't be the desire for milk but he doesn't receive it. The
+pleasure then comes from the process of acquiring the object of desire which in
+this case is the milk. Hence the baby receives surplus enjoyment from the
+behaviour of sucking.
+
+Surplus enjoyment I think can also be empirically proven by the
+neurotransmitter dopamine. Neuroscience has found out that the pleasure
+recieved from dopamine isn't when the reward is acquired but rather it is
+release in the anticipation of a reward (we're talking in terminologies of
+reward because I think they conducted experiemnts on mouses to find this out)
+
+
+So then I think the paradox can speak for itself but I'll do the speaking
+anyways. We don't actually want to fulfill our desires but then what should we
+desire? Should we even pursue our desires if they are actually not what we want?
+
+The Buddisht would tell us to not pursue our desires but Zizek disagrees. He
+thinks that it is flawed to think that we shouldn't pursue our desire, that we
+musn't betray our desire.
+- So then what should we strive for? (look into drive or the desire from a lack)
 
