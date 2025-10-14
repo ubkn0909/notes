@@ -1,0 +1,4 @@
+- Problem solving
+- Critical Thinking
+- Rationality
+- 

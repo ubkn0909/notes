@@ -1,0 +1,170 @@
+{
+  "main": {
+    "id": "18d3ead07956fe37",
+    "type": "split",
+    "children": [
+      {
+        "id": "18445d66140ff8c8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8b02c77dc1685008",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6347c6bb54b685c7",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "2519871794094f00",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "cdc336063b33b46a",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "561cbc6dad786575",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "0524bf5416e78664",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "d74e188a208b8bd3",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "a7783f3405d91c82",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "7ed0484c346afdcf",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "reading-list.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "ed1b19a65e2ed38c",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "reading-list.md",
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "8b02c77dc1685008",
+  "lastOpenFiles": [
+    "Capitalism for dum dum.md",
+    "2025-09-30.md",
+    "What to do with this vault.md",
+    "evergreen/most-people-take-transient-notes.md",
+    "Problems.md",
+    "consumerism-list.md",
+    "NEET.md",
+    "Untitled.base",
+    "Psychopolitics.md",
+    "journal",
+    "Untitled.canvas",
+    "reading-list.md",
+    "mygoal.md",
+    "questions.md",
+    "Skills to dig deep into.md",
+    "perspectives.md"
+  ]
+}

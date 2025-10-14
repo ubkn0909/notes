@@ -9,6 +9,17 @@ tags: []
 
 
 # Archive
+## Cognitive Therapy/ Applied Psychology
+- The dialectical behavior therapy skills workbook by Matthew Mckay, Jefferey Wood
+## Authors
+- Cedric Chin from 'commoncog'
+- Henrik Karlsson from 'escaping flatland'
+- Slavoj Zizek
+- Gwern
+- Holden Karnofsky
+- Hegel
+- Marx
+- 
 ## ZAWARRUUDO
 - Political Ideologies & diff worldviews: an intro 2nd ed
 
@@ -26,3 +37,10 @@ tags: []
     * Surplus Enjoyment: A guide for the non-perplexed
     * The courage of hoplessness
     * Violence?
+
+## Learning/Expertise development
+- Commongcog Blog:
+	- Tacit Knowledge series
+	- Marketing pathway
+	- Applying Mental models to real world?
+- Henrik Karlsson

@@ -9,6 +9,9 @@ tags: []
 - Learning cannot take place if you don't have a goal
 - What determines your goals? Your identity or your role
 
+> On some "reflection" I think 'philosophy' is a better word than perspective I mean perspective still fits but so does philosophy maybe both are good?
+
+
 We'll call the combination of your identity, role, and goals a 'perspective'.
 Now there are obviously going to be a large number of perspectives in the world
 so the obvious question becomes:
