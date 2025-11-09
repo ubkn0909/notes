@@ -4,12 +4,16 @@ aliases: []
 tags: []
 ---
 
-# Questions for life-long pursuit of knowledge/truth
+- What is the point of philosophy? There are so many opinions on any one particular topic, who the fuck is right? is there even a right person?
+	- the funny thing is this entire question itself is philosophical, its basically asking for "What is true?" "How do we know/Can we even know?"
 - Can we categorize all questions as either epistemic or instrumental?
-
+- How can we quantify knowledge?
+- Is thinking inherently intertwined with emotion? In practice how distinct are feelings and thoughts?
+	- with this I am mostly thinking about Nietzsche's criticism of Socrates and yk his whole theory on how thinking wasn't evolved for "truth" but rather for power. ie thinking has no basis
+	- although I am also curious as to what the broad perspectives are on this today (maybe they have specific activations of brain regions tied with  either thinking or emotion) 
 ## Psychiatry
 - What is the significance of dialectical behavioural Therapy?
-- What are the correlations between DBT and Mencius's philosophy? (I saw some parallels from On decisions;the-path )
+- What are the correlations between DBT and Mencius's philosophy? (I saw some parallels from On decisions, the-path )
 ## Existential and Axiological
 
 
@@ -17,3 +21,6 @@ tags: []
 ## Expertise
 - How should we store tacit knowledge extracted using ACTA? also whats the usefullness of storing them?
 - 
+
+## Tools for thought
+- what would be the ideal system for thinking?

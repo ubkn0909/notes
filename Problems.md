@@ -23,13 +23,11 @@ A quick note of how I plan to manage my tasks. I'll use three things:
 	- Ridiculous syllabus, esp in biology
 	- Competition
 	- Lack of personal motivation/drive/regulation (I will address these in mental health)
-- Current Objective: Study for upcoming test on 17th
-- Future Objectives:
-	- Clear all of the backlog (however you want) during diwali holidays (18th oct to )
-	- Study for Midterm
+- Current Objective: Study for mid term test
+- Future Objectives: ??
 
 
-## Mental Health
+## [[Mental Health]]
 - goal: improve enough to succeed in NEET
 - Obstacles:
 	- Tests or rather the backlash from parents after receiving the results
@@ -37,6 +35,8 @@ A quick note of how I plan to manage my tasks. I'll use three things:
 	- Chronic lethargy - mostly due to lack of proper rest
 	- A feeling of lack of control and overwhelm
 	- Anxiety about the future
+	-  **Rumination**
+	- **Perfectionism**
 - Possible solutions:
 	- DBT
 	- Mindset shifting
@@ -48,7 +48,7 @@ A quick note of how I plan to manage my tasks. I'll use three things:
 
 
 ## Someday
-- I want to try seriously learning about mastery and expertise
+- I want to try to seriously learn about mastery and expertise
 - I want to gain sufficient financial knowledge for well financial freedom and maintainence
 - I want to learn programming
 - I want to learn other subjects as well

@@ -1,0 +1,3 @@
+- perfectionism
+- rumination
+- intolerance to uncertainty
