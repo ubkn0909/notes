@@ -3,6 +3,9 @@ id: questions
 aliases: []
 tags: []
 ---
+## Meta-design
+- How do I collect and manage videos or other content for future viewing?
+
 
 - What is the point of philosophy? There are so many opinions on any one particular topic, who the fuck is right? is there even a right person?
 	- the funny thing is this entire question itself is philosophical, its basically asking for "What is true?" "How do we know/Can we even know?"

@@ -8,7 +8,12 @@
 - force feedback vr controller gloves
 - ~7 inch knightmare robot (controllable w/t vr gloves)
 - diy neurofeedback (for "biohacking" or whatever you want to use it for)
+- RC Car
 # Graphics programming
+- horse racing game
+	- I want to create a more controllable horse mechanic; 
+	- I want to replicate somthing similar to balancing the forces that you have to do in racing games (simracing)
+	- What if instead of directly controlling the horse you try to keep the rider on the horse and let the horse do its thing like entering flow or the dao. So there'll be a rythm to it and it'll play like sekiro 
 - 3d simulation game with code geass like mecha (controllable via vr gloves)
 - procedural 2d animation (eg: lizard motion)
 - cube world inspired (non-voxel?) RPG 3D adventure game
@@ -17,5 +22,6 @@
 - picoCAD & doom-inspired (specifically custom level editor of jdh) 3d modelling software for game dev and just creating art
 
 # cli
+- [[hohi|horizontally hierarchical todo app]]
 - [[collection-manager]]
 - [[gingko-inspired-tui]]
