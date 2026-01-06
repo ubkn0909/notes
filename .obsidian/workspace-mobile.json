@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "6f74e3f9fe241a80",
+        "id": "1198b2767a3ca3fa",
         "type": "tabs",
         "children": [
           {
-            "id": "8e1377d749f6c15d",
+            "id": "392b25749c1a034e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "someday.md",
+                "file": "questions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "someday"
-            }
-          },
-          {
-            "id": "5b962dd80ebd2014",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "postmodernism is cool hehehe.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "postmodernism is cool hehehe"
+              "title": "questions"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -168,12 +153,17 @@
       "bases:Create new base": false
     }
   },
-  "active": "5b962dd80ebd2014",
+  "active": "392b25749c1a034e",
   "lastOpenFiles": [
-    "someday.md",
-    "postmodernism is cool hehehe.md",
-    "rabbit-farm.md",
+    "mygoal.md",
+    "NEET.md",
     "questions.md",
+    "someday.md",
+    "The most influential people in history.md",
+    "prof jiang/Lecture notes.md",
+    "postmodernism is cool hehehe.md",
+    "prof jiang",
+    "rabbit-farm.md",
     "journal/2025-12-31.md",
     "Untitled.base",
     "consumerism-list.md",
@@ -193,10 +183,6 @@
     "swe/learning programming (in c).md",
     "journal/2025-10-25.md",
     "reading-list.md",
-    "Skills to dig deep into.md",
-    "Lessons from Dr. K.md",
-    "Action overload.md",
-    "How do I decide whats worth doing.md",
     "swe",
     "philisophy",
     "linux",
