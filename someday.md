@@ -1,4 +1,8 @@
 
+
+## Learning/Expertise
+- Touhou as an applicaiton-based case study of learning expertise theory #experiment
+
 - I ought to buy those Biotech engineered plant purifiers for apartments (that are apparently 20x more efficient than regular house plants)
 
 ## Housing

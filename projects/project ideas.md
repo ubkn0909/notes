@@ -6,6 +6,25 @@
     - also helps in remembering stuff that often gets forgotten (like pictures from 10 years ago)
 
 # irl stuff
+- a fantasy console that promotes creativity (basically an alternate to phones & social media)
+    - I am thinking that instead of procedurally generating the overworld or hand designing it why
+      not let it be a free for all like r/place. Because humans are capable of creating harmonius
+      stuff without speech (they just know cuz empathy bs)
+    - I was also thinking about adding digital pets so it'd be similar to tomogatchi and instead of
+      isolating individuals by artificially filling the void of their loneliness the pets would
+      rather encourage even more human interaction, it'll become the excuse to get to know someone.
+      How you ask? well you see, I am sure you know the cliche of pets of the mcs of a romcom start
+      playing with each other in a park and thats how the love interests meet and continue to meet
+      and yk the usual romance stuff happens
+    - overall I just want this to not be an escape and instead a tool for more creativity and
+      sharing something valuable with everyone (maybe this won't work but whatever I am still gonna
+      make it for personal interests and maybe as a thing to share with my friends)
+    - I'll also have like irl pokemon battles type stuff
+    - wouldn't it be cool if this worked on a different protocol than wifi (maybe something similar
+      to meshtastic)
+    - HOLY hell did I get ahead of myself and wrote an essay on my fantasy. Anyways I need to first
+      get the concept and idea of this down before I deal with the technical stuff
+
 - **emotion recognising ml algorithm using wifi!**
     - made possible by latest research showing non-contact heartrate monitoring method based on wifi
       (https://doi.org/10.3390/s24072111)
