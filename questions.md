@@ -36,8 +36,8 @@ tags: []
 - Humans weren't afraid of death since the hunter-gatherer days so then why'd they start being
   afraid of death?
 - Who were the most influential people in history?
-- How do developing countries (ancienct culture/civilisation) posses knowledge that modern science
-  (developed countries) doesn't have?
+- How did developing countries (ancienct culture/civilisation) acquire knowledge that modern science
+  (developed countries) couldn't?
 
 ## Psychiatry
 - What is the significance of dialectical behavioural Therapy?
@@ -54,6 +54,7 @@ tags: []
 - 
 
 ## Tools for thought
+- LOOK into to this shit: https://arxiv.org/html/2507.19726v1
 - How can I organise claims and arguments so they are easy to retrieve and reference
     - I am thinking of something like evergreen notes but the main issue I am facing when trying to
       straight up adopt is that I just don't know how long to make an evergreen note and also how to
@@ -63,10 +64,14 @@ tags: []
       incorporate this shit with that postmodern-delusions-dissociative-personality-disorder-ass,
       like I'll have personalities with all their claims and arguments listed (sort of similar to
       research sites like researchgate)
+    - I think I am also tackling the problem of how to quantify knowledge and sort of systematise it
+      digitally but is such a thing even possible?
+
 - what would be the ideal system for thinking?
 - what tool for thought can I build for managing ideas?
 - is having a "questions" note really the right approach? What about an "ideas" note? Does it even
   matter? Or maybe a third system?
+- I need like a database manager for references to resources like yt video, essays, blogs, etc
 
 
 
