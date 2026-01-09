@@ -28,10 +28,13 @@
 - **emotion recognising ml algorithm using wifi!**
     - made possible by latest research showing non-contact heartrate monitoring method based on wifi
       (https://doi.org/10.3390/s24072111)
-- force feedback vr controller gloves #hci
+- [[dataglove]]: force feedback vr controller gloves #hci
 - ~7 inch knightmare robot (controllable w/t vr gloves)
 - diy neurofeedback using electrodes (for "biohacking" or whatever you want to use it for)
 - RC Car 
+- mess around with some custom small factor input designs
+
+
 
 # Graphics programming
 - 3d simulation game with code geass like mecha (controllable via vr gloves) #hci
