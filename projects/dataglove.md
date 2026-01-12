@@ -30,7 +30,7 @@ knows, the possibilities are endless), etc.).
 - It needs to be extremely lightweight so I don't feel any strain after even
   after extensive hours of usage
 
-## software: firmware
+## software: firmware & driver programming
 It'll need to implement VR in some way so I can leverage already made VR stuff
 
 
