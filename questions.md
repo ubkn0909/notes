@@ -11,6 +11,7 @@ tags: []
 - Imagination & Creativity
 - 
 
+- Monologue vs Dialogue - which are their strenghts and flaws?
 - What is freedom truly?
 - What is the act of writing and its relation to the act of thinking?
 

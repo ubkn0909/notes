@@ -29,7 +29,14 @@
     - made possible by latest research showing non-contact heartrate monitoring method based on wifi
       (https://doi.org/10.3390/s24072111)
 - [[dataglove]]: force feedback vr controller gloves #hci
-- ~7 inch knightmare robot (controllable w/t vr gloves)
+- knightmare mecha robot 
+    - controllable with [[dataglove]]
+    - ~7 inch
+    - code geass inspired mini (european) knightmare frames 
+    - racing capabilities & accessories like turbo fast
+    - supports tpv/fpv
+
+
 - diy neurofeedback using electrodes (for "biohacking" or whatever you want to use it for)
 - RC Car 
 - mess around with some custom small factor input designs
