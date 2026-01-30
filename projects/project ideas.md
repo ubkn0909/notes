@@ -63,5 +63,13 @@
 
 # cli
 - [[hohi|horizontally hierarchical todo app]]
-- [[collection-manager]]
+- [[colman]]
 - [[gingko-inspired-tui]]
+
+
+# android
+- pdf viewer
+    - allows *referencing* which is just adding a link to user selected text on
+      the side, this is useful for when books mention they'll elaborate on some
+      thing later but you'll probably forget about the book ever mentioning
+      that, so by using this you are able to more better understand the text

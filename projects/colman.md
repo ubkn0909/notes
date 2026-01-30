@@ -22,9 +22,13 @@ What I really liked with each software:
 
 
 - bkmr:
-	- bkmr seems to best capture what I want
+	- bkmr seems to best capture the spirit of what I want
 	- It has good search function
 
+
+- nushell:
+    - another piece of software that has caught my attention would be nushell
+    - in nu everything is a structured data 
 
 
 # Colman
@@ -41,11 +45,17 @@ ideas for design:
 - nodes can be files, http-links(bookmark), snippet code, shell script, any
   custom object (like a book, film, anime, light-novel, etc, etc)
 - full blown tui for easy searching/organising
+- it will also have capabilities to support custom "modules" through scripting
+  (maybe in lua or a common config language)
 
 I am not sure if I want to use Odin or Go to write this. Odin is the new hot
 thing I am trying but it doesn't have a strong library for tui's or any other
 cli. Go on the other hand has an entire ecosystem of cli frameworks (Viper,
 Charm libraries: bubbletea, lipgloss)
+
+@2026-01-31 -> I am writing this with go. I'll first prototype a bookmark
+manager then work on this
+
 
 Depending on the type of collectible it will activate different Modules:
 - Book module
