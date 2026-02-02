@@ -66,6 +66,10 @@
 - [[colman]]
 - [[gingko-inspired-tui]]
 
+# gui desktop app
+- a static site browser
+    - fast and lightweight to run on my potato of a laptop
+    - try odinlang for this
 
 # android
 - pdf viewer

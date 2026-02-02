@@ -8,6 +8,12 @@ It can be broken down into:
 - design
 - debugging
 
+skills/concepts:
+- abstraction
+- algorithms
+- decomposition
+- pattern recognition
+
 current goals:
 - learn c programing
     - learn c firmware programming
