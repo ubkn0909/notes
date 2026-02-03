@@ -1,4 +1,4 @@
-# Dataglove 
+# Dataglove
 The name is a play on "datahand" which was a unique keyboard design that later
 hobbiest took to the next level revamping it to "svalboard". Both are soo
 fucking cool, I'll need to explore those bad boys on their own sometime. And so
