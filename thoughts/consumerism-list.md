@@ -4,16 +4,18 @@ aliases: []
 tags: []
 ---
 # Long-term
-## For college
 - get a cracked thinkpad
+- custom build a linux workstation pc
 - mechanical keyboard
-- headphones
-- durable backpack
+- durable backpack (or maybe those japanese highschool bags)
 - durable clothes
 - wallet (hopefully I'll have enough cash to need this)
 - 3d Printer
 - thermal printer (for them todo tickets and maybe journaling, etc)
-- Soldering kit
+    - also make sure they don't use those harmful chemicals
+- soldering kit
+- headphones
+- mic (if you're planning to do youtube)
 - cooking stuff:
 	- stainless steel pan
 	- stainless steel pot

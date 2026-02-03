@@ -5,15 +5,33 @@ tags: []
 ---
 ## Meta-design
 - How do I collect and manage videos or other content for future viewing?
+- What is the difference between *questions* and *issues*?
 
 **Areas**
 - Consiousness
 - Imagination & Creativity
-- 
 
+- Should I use asciidoc?
+    - its just way better than markdown
+
+- How can you capture the evolution of thought in digital systems?
+    - more specifically how do I show the evolution of thought
+    - there is all this praise about git, but how can I use it for writing ig I
+      should first understand how it is used in code (there's the philosophy of
+      atomic git maybe I can recontextualize it for writing)
+
+- Explore how 'questions' work: I am sure there is atleast one philosopher whose
+  thought about how and what questions are
+- Explore optimization problems
+- Should I start a personal blog? (and host it on those indie sites)
+    - honestly I kind of want to, but I am still contemplating
 - Monologue vs Dialogue - which are their strenghts and flaws?
 - What is freedom truly?
 - What is the act of writing and its relation to the act of thinking?
+- Explore and list *Paradoxes*
+- The act of writing
+    - History
+    - Theories or frameworks on writing
 
 - What is the point of philosophy? There are so many opinions on any one particular topic, who the
   fuck is right? is there even a right person?
@@ -52,7 +70,6 @@ tags: []
 ## Expertise
 - How should we store tacit knowledge extracted using ACTA? also whats the usefullness of storing
   them?
-- 
 
 ## Tools for thought
 - LOOK into to this shit: https://arxiv.org/html/2507.19726v1
@@ -73,9 +90,13 @@ tags: []
 - is having a "questions" note really the right approach? What about an "ideas" note? Does it even
   matter? Or maybe a third system?
 - I need like a database manager for references to resources like yt video, essays, blogs, etc
-
-
-
+- is capturing all your thoughts a good idea?
+    - there is an obsession of journaling every single thought you have in the
+      pkm community, but should you? an avg human has INSERT_DATA number of
+      thoughts per INSERT_DATA, they just pop into your head and leave and for
+      good reason. Most of the thoughts you have are bad but but what really
+      makes a thought good or bad? and isn't it the case that most great ideas
+      sound dumb when they are first thought of?
 
 
 
