@@ -1,4 +1,8 @@
 ## inbox
+- TFT as a cultural practice: https://maggieappleton.com/tools-for-thought
+    - excellent review of tools for thought and a good take on reframing the
+      current approach
+
 - Erin Kissane: https://erinkissane.com/qualities-of-life 
     - tags: #to-read
 

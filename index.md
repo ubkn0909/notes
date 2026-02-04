@@ -1,0 +1,37 @@
+# about page
+What am I trying to do with this?
+I like collecting things, no actually I *love* collecting things. I am a
+collector and this system will host all of my collections.
+
+To be honest with you I don't know exactly what to do with this, I just want to
+explore my thoughts and structure knowledge or information I find.
+
+Maybe I could collect information and then transform it into (personal)
+knowledge?
+
+In any case, I want to write for my future self so when I forget things I have
+somewhere to go back to where I can restart those rusty engines and retrace the
+connections I took before. I want this to aid me in thinking and reflecting
+about stuff.
+
+Ultimately I want to this system to help me unfold the context of this world so
+that I may lead a 'good' life... NOT REALLY! I lied, instead of helping me lead
+a good life I want this system to grab my attention in such a way that I
+entirely stop thinking in the categories of a 'good' or 'bad' life. -> (from the
+true goal of a psychoanalyst)
+
+My current priorities:
+- learning golang, c, and odin
+- cuet/neet studies
+- financial literacy
+- design theory
+- learning science (or how can I make better decisions and learn faster)
+
+interested in:
+- building better tools for thought
+
+
+## design
+As for the design... well I've got aboslutely no idea how to design this thing
+and besides don't you first need a goal in order to design something? I could
+just experiment stuff.

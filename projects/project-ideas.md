@@ -1,9 +1,30 @@
+# tools for thought
+- Hypergraphs for personal knowledge management systems
+    - using natural language processing we can extract 'knowledge' from provided
+      sources and map it out in a hypergraph which can be visualized to aid in
+      learning
+    - these sources could be: wikipedia, textbooks, research paper databases,
+      codebases, etc
+    - another way to use it would be for diagramming or mind-mapping, or perhaps
+      create a custom new markup language that has a way to create hypergraphs
+    - perhaps it could also be used to model critical-thinking? maybe it'll make
+      it easier to detect fallacies and pitfalls?
+
+# cli
+- [[hohi|horizontally hierarchical todo app]]
+- [[colman]]
+- [[gingko-inspired-tui]]
 - review:
     - a program that periodically helps you review your files such as pictures, videos and perhaps
       notes by randomly showing them to you
     - sort of like anki but for your entire file system
     - helps in staying organised and clean with files
     - also helps in remembering stuff that often gets forgotten (like pictures from 10 years ago)
+
+# gui desktop app
+- a static site browser
+    - fast and lightweight to run on my potato of a laptop
+    - try odinlang for this
 
 # irl stuff
 - a fantasy console that promotes creativity (basically an alternate to phones & social media)
@@ -61,15 +82,6 @@
 - picoCAD & doom-inspired (specifically custom level editor of jdh) 3d modelling software for game
   dev and just creating art
 
-# cli
-- [[hohi|horizontally hierarchical todo app]]
-- [[colman]]
-- [[gingko-inspired-tui]]
-
-# gui desktop app
-- a static site browser
-    - fast and lightweight to run on my potato of a laptop
-    - try odinlang for this
 
 # android
 - pdf viewer

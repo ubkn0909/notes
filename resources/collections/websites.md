@@ -14,3 +14,11 @@
     - hosts blogs written by experts in psychology and stuff, I think Gary Klein
       also has some articles here
 
+
+## html/css/javascript - web
+- simple css: https://simplecss.org/
+    - a simple lightweight css stylesheet for blogs, about-me's, etc
+
+- dillo: https://dillo-browser.org/
+    - tags: #browser
+    - a super lightweight browser without javascript
