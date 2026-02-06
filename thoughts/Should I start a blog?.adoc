@@ -41,3 +41,28 @@ the changes occured.
 
 
 - Wouldn't it be funny to have a page exploring plans for world domination?
+
+
+@2026-02-06
+
+Here's what I've decided. Instead of building a shallow indie website written in
+bloated html, css, and javascript, I'll instead write the whole damn thing as a
+native desktop app (probably using clay for ui). Why? cuz I want to do extreme
+experiments with it so I need the flexibility and since I wanna move away from
+the browser side of things (websites were a mistake).
+
+For now I wish to halt developments towards a ui/ux/visualizations, but in the
+meantime I'll move all of my notes to asciidoc. I'd prefer if the gui was based
+on some solid theory and plan for what experiments I'll perform. Right now I
+don't even know how to structure this thing but I suppose its fine since Henrik
+has a messy vault too and he pumps out some of the most finest pieces of
+non-fiction. I'll probably add like a `reading-list`, a `someday-list,` and an
+`issues-list`. And for how to proceed with this I'll start learning
+critical-thinking, epistemology, and all that other good stuff (guess I'll have
+to grab them sources and add them to my reading list).
+
+* what grammar rules should I impose on myself if any? (maybe see what gwern
+  does)
+
+* xref:"On task management.adoc"
+

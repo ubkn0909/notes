@@ -1,4 +1,6 @@
-# about page
+@2026-02-06 from now on I will be migrating all of my notes into asciidoc
+
+= about page
 What am I trying to do with this?
 I like collecting things, no actually I *love* collecting things. I am a
 collector and this system will host all of my collections.
@@ -21,17 +23,32 @@ entirely stop thinking in the categories of a 'good' or 'bad' life. -> (from the
 true goal of a psychoanalyst)
 
 My current priorities:
-- learning golang, c, and odin
-- cuet/neet studies
-- financial literacy
-- design theory
-- learning science (or how can I make better decisions and learn faster)
+* learning golang, c, and odin
+* cuet/neet studies
+* financial literacy
+* design theory
+* learning science (or how can I make better decisions and learn faster)
 
 interested in:
-- building better tools for thought
+* building better tools for thought
 
 
-## design
+== design
 As for the design... well I've got aboslutely no idea how to design this thing
 and besides don't you first need a goal in order to design something? I could
 just experiment stuff.
+
+* [[thoughts/Should I start a blog?]]
+
+
+* issues.adoc - contains all the decisions I am thinking about
+* someday.adoc - contains a list of topics, questions, themes, and stuff I think I
+  should do
+** typography: Et book font
+
+* reading list - will track my reading
+
+include::"thoughts/Should I start a blog?.adoc"
+
+
+

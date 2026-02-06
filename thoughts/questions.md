@@ -13,6 +13,8 @@ tags: []
 
 - Should I use asciidoc?
     - its just way better than markdown
+    - tags are ineffective organisation structure so what else can I use, and is
+      there something natively available in asciidoc
 
 - How can you capture the evolution of thought in digital systems?
     - more specifically how do I show the evolution of thought

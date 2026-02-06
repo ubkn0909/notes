@@ -1,0 +1,10 @@
+* What should be the purpose of a task management system?
+* Why do most task management systems fail?
+
+I think the purpose of a task management system is to really just plan and once
+the job is finished forget about it. But what about tracking progress? well you
+can look at the 'work' that you did then. Maybe your tasks were about working
+on a codebase if so then take a look at its git commit history. What I am saying
+is that we should untangle the act of planning and the act of journaling (so we
+can track our progress or reflect) seperately. Those are my ideas on the matter
+for now

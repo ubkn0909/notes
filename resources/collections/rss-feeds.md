@@ -1,4 +1,6 @@
 ## inbox
+- https://idiallo.com/blog/boredom-is-the-gatekeeper
+- building your own things: https://ewintr.nl/posts/2020/why-i-built-my-own-shitty-static-site-generator/
 - TFT as a cultural practice: https://maggieappleton.com/tools-for-thought
     - excellent review of tools for thought and a good take on reframing the
       current approach
